@@ -1,0 +1,25 @@
+{
+  "name": "@dscvr-one/create-canvas-starter",
+  "version": "1.0.1",
+  "description": "npx create starter that clones from dscvr canvas examples",
+  "main": "index.js",
+  "bin": "./bin/cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dscvr-one/create-canvas-starter.git"
+  },
+  "keywords": [
+    "dscvr",
+    "canvas",
+    "examples"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dscvr-one/create-canvas-starter/issues"
+  },
+  "homepage": "https://github.com/dscvr-one/create-canvas-starter#readme",
+  "devDependencies": {
+    "shipjs": "^0.26.3"
+  }
+}
